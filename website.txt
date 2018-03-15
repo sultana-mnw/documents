@@ -8,3 +8,4 @@ npm install @angular/cli --save
 cd C:\Users\Trainee.01\Desktop\angular\node_modules\.bin
 ng new ex
 >cd ex
+ttps://github.com/ProvidentOne/contracts/blob/b4879fd477db7b2d2bf87ae7afcbd20878cf7991/contracts/InvestmentFund.sol
