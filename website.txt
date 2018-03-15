@@ -1,0 +1,10 @@
+angular js installation : https://coursetro.com/posts/code/55/How-to-Install-an-Angular-4-App
+
+
+
+
+mkdir angular && cd angular
+npm install @angular/cli --save
+cd C:\Users\Trainee.01\Desktop\angular\node_modules\.bin
+ng new ex
+>cd ex
