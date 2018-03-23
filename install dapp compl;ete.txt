@@ -27,3 +27,8 @@ test rpc installation
 
 https://medium.com/@merunasgrincalaitis/the-ultimate-end-to-end-tutorial-to-create-and-deploy-a-fully-descentralized-dapp-in-ethereum-18f0cf6d7e0e
 https://medium.com/@VladimirTikhomirov/how-its-made-crowdsale-contract-1120b487cc4a
+
+zestrin :https://zastrin.slack.com/
+chainflux
+https://teamchainflux.slack.com
+normal:ttps://www.zastrin.com/courses/1/lessons/4-7
