@@ -32,3 +32,5 @@ zestrin :https://zastrin.slack.com/
 chainflux
 https://teamchainflux.slack.com
 normal:ttps://www.zastrin.com/courses/1/lessons/4-7
+
+npm install -g ganache-cli
