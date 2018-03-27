@@ -2,7 +2,8 @@ example contract instance  https://github.com/ethereum/web3.js/blob/master/examp
 
 angular js installation : https://coursetro.com/posts/code/55/How-to-Install-an-Angular-4-App
 
-
+truffle tutorial:
+https://medium.com/@tapdev/your-first-truffle-dapp-an-attempt-at-a-beginners-guide-to-the-truffle-framework-part-3-2c77b9feb97d
 
 
 mkdir angular && cd angular
